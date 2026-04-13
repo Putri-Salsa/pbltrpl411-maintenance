@@ -1,2 +1,3 @@
 # pbltrpl411-maintenance
-Update README and fix login issue, closes #1
+Fix login issue by correcting authentication logic, closes #1
+Fix data submission bug in form handler, closes #2
